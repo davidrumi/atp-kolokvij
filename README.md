@@ -16,5 +16,7 @@ def decorator_factory(argument):
         return wrapper
     return decorator
 
+#### LICENSE:
+https://github.com/davidrumi/atp-kolokvij/tree/main?tab=MIT-1-ov-file#MIT-1-ov-file
 
     
